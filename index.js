@@ -6,12 +6,12 @@ const quizData = [
 },
 {
     question: "Who is the HS Coordinator in the Civics department?",
-    options: ["Mrs Angela Lucas", "Mrs Kae Yvatte Tugade", "Ms Rosemarie Dela Cruz", "Ms Caberlyn Barte"],
-    answer: "Ms Caberlyn Barte"
+    options: ["Mrs Angela Lucas", "Mrs Kae Yvatte Tugade", "Ms Rosemarie Dela Cruz", "Ms Carbelyn Barte"],
+    answer: "Ms Carbelyn Barte"
 },
 {
     question: "Who is the GS Coordinator in the Civics department?",
-    options: ["Mrs Angela Lucas", "Mrs Kae Yvatte Tugade", "Ms Rosemarie Dela Cruz", "Ms Caberlyn Barte"],
+    options: ["Mrs Angela Lucas", "Mrs Kae Yvatte Tugade", "Ms Rosemarie Dela Cruz", "Ms Carbelyn Barte"],
     answer: "Mrs Angela Lucas"
 },
 {
